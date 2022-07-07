@@ -20,20 +20,20 @@
   <div class="container services">
         <div class='col-12'><h1 class='m-5'>OUR SERVICES</h1></div>
         <div class='row'>
-        <div class='col-lg-4 col-md-12 shadow'>
+        <div class='col-lg-4 col-md-12 '>
        <div class='icon m-4'><i class="fa-brands fa-figma"></i></div>
         <h4>UI/UX DESIGN</h4>
         <p class='w-60 text-justify'>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
+        <div class='col-lg-4 col-md-12 '>
         <div class='icon  m-4'><i class="fa-solid fa-bezier-curve"></i></div>
         <h4>GRAPHICS DESIGN</h4>
         <p>It is a long established fact that a reader will be distractd by the readable content 
         of a page when looking at its layout</p>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
+        <div class='col-lg-4 col-md-12 '>
         <div class='icon  m-4'>3</div>
         <h4>MOBILE DEVELOPMENT</h4>
         <p>It is a long established fact that a reader will be distractd by the readable content 
@@ -44,13 +44,13 @@
 
 
          <div class='row'>
-   <div class='col-lg-4 col-md-12 shadow'>
+   <div class='col-lg-4 col-md-12 '>
        <div class='icon  m-4'>4</div>
         <h4>VIDEO EDITING</h4>
         <p>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
+        <div class='col-lg-4 col-md-12 '>
         <div class='icon  m-4'>5</div>
         <h4>SEO SERVICES</h4>
         <p>It is a long established fact that a reader will be distractd by the readable content 
@@ -312,7 +312,30 @@
 
 
 </div>
+<div class='ready row'>
+<div class='col-lg-6 col-sm-10'>
+<h3>Ready for your project dream to be done</h3>
+</div>
+<div  class='col-lg-6 col-sm-10'>
+<button>Meet Us</button>
+</div>
+</div>
 
+<div class='contact row'>
+<div class='col-12'><h2>WRITE TO US</h2></div>
+<div class='col-l2'>
+<div class="form-floating mb-3 ">
+  <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" >
+  <label for="floatingInput">Email address</label>
+</div>
+<div class="form-floating">
+  <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+  <label for="floatingPassword">Password</label>
+</div>
+</div>
+
+
+</div>
 
 </template>
 
@@ -403,7 +426,7 @@ h4{
     background:rgba(17,36,90,0.8);
 }
 .Testimonial{
-    margin-bottom:200px;
+    margin-bottom:100px;
 }
 .team-member{
    
@@ -429,9 +452,47 @@ h4{
 .Testimonial .nav-pills .nav-link.active{
     background:transparent;
 }
-
+.ready{
+    background:linear-gradient(to right, rgba(17,36,90,0.8), crimson);
+    height:150px;
+    padding:8px 5px;
+    margin-bottom:50px;
+    color:white;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.ready button{
+    width:200px;
+    padding:3px;
+    border-radius:15px;
+    border:none;
+    outline:none;
+    background:rgba(17,36,90,0.8);
+    color:white;
+}
+.ready h3{
+    font-size:20px;
+}
+.contact{
+    justify-content:center;
+   width:80%;
+   margin:50px auto;
+    display:flex;
+   
+}
+.contact img{
+    width:300px;
+}
 
 @media(max-width:600px){
+    .contact{
+        width:100%;
+    }
+    .ready button{
+        margin-top:15px;
+        margin-bottom:15px;
+    }
     .header{
         padding:0;
     }
