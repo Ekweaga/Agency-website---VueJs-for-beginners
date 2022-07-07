@@ -1,5 +1,5 @@
 <template>
-<nav class="navbar navbar-expand-lg navbar-light bg-light shadow">
+<nav class="navbar navbar-expand-lg navbar-light bg-light shadow mb-3">
   <div class="container">
     <a class="navbar-brand" href="#">C T S</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -8,16 +8,17 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+           <router-link class="nav-link active" :to="{ name: 'Home' }">Home</router-link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About Us</a>
+          <router-link class="nav-link" :to="{ name: 'About' }">About Us</router-link>
+         
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">Services</a>
+          <router-link class="nav-link" :to="{ name: 'Services' }">Services</router-link>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="#" tabindex="-1" aria-disabled="true">Contact Us</a>
+           <router-link class="nav-link" :to="{ name: 'Contact' }">Contact</router-link>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Our work</a>
@@ -35,6 +36,12 @@
  
   <router-view/>
 </template>
+<script>
+export default {
+  
+};
+</script>
+
 
 <style>
 #app {
@@ -57,5 +64,11 @@ h1,h2,h3,h4,h5,h6{
 }
 .navbar-light .navbar-nav .nav-link.active{
   color:crimson;
+}
+nav{
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
 }
 </style>
