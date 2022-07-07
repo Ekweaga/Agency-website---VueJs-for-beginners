@@ -3,9 +3,9 @@
   <div class='container-fluid header text-center'>
   <div class='row justify-content-center ' >
   <div class='col-lg-10 col-sm-12'>
-  <h1 class='display-5 '> <span class='cts' style="margin-bottom:25px; color:crimson;">CTS</span><br/></h1>
-  <h2>WE ARE CREATIVE AGENCY, 
-  CREATIVE PEOPLE</h2>
+  <h2 class='display-5 '> <span class='cts' style="margin-bottom:25px; color:crimson;">CTS</span><br/></h2>
+  <h1 class='display-5 '>WE ARE CREATIVE AGENCY, <br/>
+  CREATIVE PEOPLE</h1>
   <p class="headerp"></p>
   <div><button class="btn btn-danger mt-3 w-30">Contact Us</button></div>
   
@@ -256,6 +256,64 @@
 
 
   </div>
+
+<div class='Testimonial text-center container'>
+<ul class="nav nav-pills mb-3  justify-content-center" id="pills-tab" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><img src="@/assets/face.jpeg" style="width:50px;height:50px; border-radius:50%;"/></button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><img src="@/assets/tx.jpeg" style="width:50px;height:50px; border-radius:50%;"/></button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><img src="@/assets/1.jpeg" style="width:50px;height:50px; border-radius:50%;"/></button>
+  </li>
+</ul>
+<div class="tab-content" id="pills-tabContent">
+  <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+  <div class='review'>
+  <p class='lead'>Stay up to date on the development of Bootstrap and reach out to the community with these helpful resources. 1. Read and subscribe to The Official Bootstrap Blog. 2. Join the official Slack room. 3. Chat with fellow Bootstrappers in IRC. On the irc.libera.chat server, in the #bootstrapchannel. 4.
+   Implementation help may be found at Stack Ove…</p>
+  <h5>Steven Crown</h5>
+  <small>Brand strategist</small>
+  
+  
+  
+  </div>
+  
+  </div>
+  <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
+  <div class='review'>
+  <p class='lead'>Stay up to date on the development of Bootstrap and reach out to the community with these helpful resources. 1. Read and subscribe to The Official Bootstrap Blog. 2. Join the official Slack room. 3. Chat with fellow Bootstrappers in IRC. On the irc.libera.chat server, in the #bootstrapchannel. 4.
+   Implementation help may be found at Stack Ove…</p>
+  <h5>Williams Godswill</h5>
+  <small>Business Man</small>
+  
+  
+  
+  </div>
+  
+  </div>
+  <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
+  <div class='review'>
+  <p class='lead'>Stay up to date on the development of Bootstrap and reach out to the community with these helpful resources. 1. Read and subscribe to The Official Bootstrap Blog. 2. Join the official Slack room. 3. Chat with fellow Bootstrappers in IRC. On the irc.libera.chat server, in the #bootstrapchannel. 4.
+   Implementation help may be found at Stack Ove…</p>
+  <h5>Babatunde Johnson</h5>
+  <small>Business Marketer</small>
+  
+  
+  
+  </div>
+  
+  </div>
+</div>
+
+
+
+
+</div>
+
+
 </template>
 
 
@@ -344,21 +402,32 @@ h4{
     border-radius:50%;
     background:rgba(17,36,90,0.8);
 }
-.teaminfo{}
+.Testimonial{
+    margin-bottom:200px;
+}
 .team-member{
    
    
 }
 .team-member img{
     border-radius:50%;
-    width:200px;
-    height:200px;
+    width:100px;
+    height:100px;
 }
 .line{
     width:100px;
     height:2px;
     background:crimson;
     margin:16px auto;
+}
+.review p{
+    
+    margin:25px auto;
+    font-style:italic;
+
+}
+.Testimonial .nav-pills .nav-link.active{
+    background:transparent;
 }
 
 
