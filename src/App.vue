@@ -21,13 +21,13 @@
            <router-link class="nav-link" :to="{ name: 'Contact' }">Contact</router-link>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Our work</a>
+          <a class="nav-link" href="#work">Our work</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Team</a>
+          <a class="nav-link" href="#team">Team</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Testimonial</a>
+          <a class="nav-link" href="#test">Testimonial</a>
         </li>
       </ul>
     </div>
@@ -150,9 +150,9 @@
                 class="mb-4 mt-0 d-inline-block mx-auto"
                 style="width: 60px; background-color: #7c4dff; height: 2px"
                 />
-            <p><i class="fas fa-home mr-3"></i> New York, NY 10012, US</p>
+            <p><i class="fas fa-home mr-3"></i>Akure, Ondo state, NG</p>
             <p><i class="fas fa-envelope mr-3"></i> hikay123@gmail.com</p>
-            <p><i class="fas fa-phone mr-3"></i> + 01 234 567 88</p>
+            <p><i class="fas fa-phone mr-3"></i> +234 9057772744</p>
             <p><i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
           </div>
           <!-- Grid column -->
@@ -167,10 +167,8 @@
          class="text-center p-3"
          style="background-color: rgba(0, 0, 0, 0.2)"
          >
-      © 2020 Copyright:
-      <a class="text-white" href="https://mdbootstrap.com/"
-         >MDBootstrap.com</a
-        >
+      © 2020 Copyright : C T S | We are creative agency,creative people
+     
     </div>
     <!-- Copyright -->
     <div>CTS | We are creative agency , creative people</div>

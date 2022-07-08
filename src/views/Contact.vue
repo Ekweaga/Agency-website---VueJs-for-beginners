@@ -21,21 +21,22 @@
   <label for="floatingInput">Email address</label>
 </div>
 <div class="form-floating">
-  <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
+  <input type="password" class="form-control" id="floatingPassword" placeholder="Password"><br/>
+  <label for="floatingPassword">Password</label>
+</div>
+<div class="form-floating">
+  <input type="password" class="form-control" id="floatingPassword" placeholder="Password"><br/>
   <label for="floatingPassword">Password</label>
 </div>
 <div class="form-floating">
   <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
   <label for="floatingPassword">Password</label>
 </div>
-<div class="form-floating">
-  <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-  <label for="floatingPassword">Password</label>
 </div>
-</div>
-
+<button type="button" class="btn  mt-3" style="width:200px; float:left; background:rgba(17,36,90,0.9); color:white;">Submit</button>
 
 </div>
+
 </template>
 
 
