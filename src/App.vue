@@ -95,9 +95,8 @@
                 style="width: 60px; background-color: #7c4dff; height: 2px"
                 />
             <p>
-              Here you can use rows and columns to organize your footer
-              content. Lorem ipsum dolor sit amet, consectetur adipisicing
-              elit.
+             Leverages the latest technologies like web development, UI/Ux design, Blockchain, and App Development for clients to get the best outcome for their budget. 
+             If you are searching for a globally trusted solution partner. We are here!
             </p>
           </div>
           <!-- Grid column -->
@@ -111,16 +110,25 @@
                 style="width: 60px; background-color: #7c4dff; height: 2px"
                 />
             <p>
-              <a href="#!" class="text-white">Bootstrap</a>
+           Digital marketing
             </p>
             <p>
-              <a href="#!" class="text-white">WordPress</a>
+            WordPress
             </p>
             <p>
-              <a href="#!" class="text-white">BrandFlow</a>
+            WebFlow
             </p>
             <p>
-              <a href="#!" class="text-white">Bootstrap Angular</a>
+            UI/UX Design
+            </p>
+             <p>
+             Web Development
+            </p>
+             <p>
+             Mobile Apps Development
+            </p>
+             <p>
+             Startup Development
             </p>
           </div>
           <!-- Grid column -->
@@ -128,17 +136,9 @@
           <!-- Grid column -->
           <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
             <!-- Links -->
-            <h6 class="text-uppercase fw-bold">Useful links</h6>
-            <hr
-                class="mb-4 mt-0 d-inline-block mx-auto"
-                style="width: 60px; background-color: #7c4dff; height: 2px"
-                />
-            <p>
-              <a href="#!" class="text-white">Your Account</a>
-            </p>
-            <p>
-              <a href="#!" class="text-white">Help</a>
-            </p>
+           
+           
+          
           </div>
           <!-- Grid column -->
 
@@ -153,7 +153,7 @@
             <p><i class="fas fa-home mr-3"></i>Akure, Ondo state, NG</p>
             <p><i class="fas fa-envelope mr-3"></i> hikay123@gmail.com</p>
             <p><i class="fas fa-phone mr-3"></i> +234 9057772744</p>
-            <p><i class="fas fa-print mr-3"></i> + 01 234 567 89</p>
+            <p><i class="fas fa-print mr-3"></i> +234 8148837221</p>
           </div>
           <!-- Grid column -->
         </div>
@@ -171,7 +171,7 @@
      
     </div>
     <!-- Copyright -->
-    <div>CTS | We are creative agency , creative people</div>
+    
   </footer>
   <!-- Footer -->
 
@@ -187,7 +187,7 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
@@ -212,5 +212,11 @@ nav{
   top:0;
   left:0;
   right:0;
+}
+p{
+  font-size:13px;
+}
+span{
+  font-size:13px;
 }
 </style>

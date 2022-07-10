@@ -3,7 +3,7 @@
   <div class='container-fluid header text-center'>
   <div class='row justify-content-center ' >
   <div class='col-lg-10 col-sm-12'>
-  <h2 class='display-5 '> <span class='cts' style="margin-bottom:25px; color:crimson;">CTS</span><br/></h2>
+  <h2 class='display-5 '> <span class='cts' style="margin-bottom:25px; color:crimson; font-size:50px;">CTS</span><br/></h2>
   <h1 class='display-5 '>WE ARE CREATIVE AGENCY, <br/>
   CREATIVE PEOPLE</h1>
   <p class="headerp"></p>
@@ -68,7 +68,7 @@
      <div ><h2 class='m-5'>OUR WORKS</h2></div>
      <div class='col-lg-4 col-sm-6 portfolio-item'>
             <div class='portfolio'>
-            <img src='@/assets/cts.jpeg'/>
+            <img src='@/assets/diko.png'/>
             <div class='portfolio-overlay'>
             <div><h1>Diko</h1>
             <h6>Dictionary app</h6></div>
@@ -78,7 +78,7 @@
      </div>
        <div class='col-lg-4 col-sm-6 portfolio-item'>
             <div class='portfolio'>
-            <img src='@/assets/cts.jpeg'/>
+            <img src='@/assets/movie.png'/>
             <div class='portfolio-overlay'>
            <div> <h1>Movella</h1>
             <h6>Movie app</h6></div>
@@ -89,7 +89,7 @@
        <div class='col-lg-4 col-sm-6 portfolio-item'>
             <div class='portfolio'>
             
-            <img src='@/assets/cts.jpeg'/>
+            <img src='@/assets/fixcer.png'/>
             <div class='portfolio-overlay'>
            <div> <h3>Pixabulous Designs</h3>
             <h6>Digital agency</h6></div>
@@ -100,7 +100,7 @@
       <div class='col-lg-4 col-sm-6 portfolio-item'>
             <div class='portfolio'>
             
-            <img src='@/assets/cts.jpeg'/>
+            <img src='@/assets/expendol.png'/>
             <div class='portfolio-overlay'>
            <div> <h3>Expense tracker</h3>
             <h6>Expense app</h6></div>
@@ -111,10 +111,10 @@
       <div class='col-lg-4 col-sm-6 portfolio-item'>
             <div class='portfolio'>
             
-            <img src='@/assets/cts.jpeg'/>
+            <img src='@/assets/grocery.png'/>
             <div class='portfolio-overlay'>
            <div> <h3>Booklin</h3>
-            <h6>Online store</h6></div>
+            <h6>Grocery store</h6></div>
             
             </div>
             </div>
@@ -173,7 +173,7 @@
         of a page when looking at its layout</p>
         </div>
 
-        <div class='col-lg-4 col-md-12'>
+        <div class='col-lg-4 col-md-12 shadow'>
         <div class='icon features-icon m-4'><i class='bx bx-check' ></i></div>
         <h4>LATEST TRENDS</h4>
         <p>It is a long established fact that a reader will be distractd by the readable content 
@@ -187,7 +187,7 @@
      <div class='col-12 mt-5'><h1 class='m-5'>MEET OUR TEAM</h1></div>
   <div class='col-lg-3 col-sm-12 team-member '>
     <div class='team-member-img'>
-    <img src='@/assets/face.jpeg' class=''/>
+    <img src='@/assets/m2.png' class=''/>
     </div>
 
     <div class='p-4'>
@@ -210,7 +210,7 @@
     <h5 class='mb-0'>Ekweaga Charles</h5>
     <div class='line'></div>
     <small><b>Full-stack / Digital marketer</b></small>
-    <p>Well skillful and work proven backend developer with 3 years of experience</p>
+    <p>Meet Charles, Our full-stack developer and also a digital marketing expert</p>
     </div>
 
     
@@ -218,14 +218,14 @@
   </div>
   <div class='col-lg-3 col-sm-12 team-member '>
     <div class='team-member-img'>
-    <img src='@/assets/face.jpeg' class=''/>
+    <img src='@/assets/m1.png' class=''/>
     </div>
 
     <div class='p-4'>
     <h5 class='mb-0'>Adebayo Rasheed</h5>
       <div class='line'></div>
     <small><b>Data Scientist</b></small>
-    <p>Well skillful and work proven backend developer with 3 years of experience</p>
+    <p>Well skillful and work proven data Scientist, has python and ruby on rails knowledge</p>
     </div>
 
     
@@ -233,14 +233,14 @@
   </div>
   <div class='col-lg-3 col-sm-12 team-member '>
     <div class='team-member-img'>
-    <img src='@/assets/face.jpeg' class=''/>
+    <img src='@/assets/man5.jpeg' class=''/>
     </div>
 
     <div class='p-4 teaminfo'>
     <h5 class='mb-0'>John David</h5>
       <div class='line'></div>
     <small><b>UI/UX Designer</b></small>
-    <p>Well skillful and work proven backend developer with 3 years of experience</p>
+    <p>UI/UX designer with 5 years of experience</p>
     </div>
 
     
@@ -257,10 +257,10 @@
 <div class='Testimonial text-center container' id="test">
 <ul class="nav nav-pills mb-3  justify-content-center" id="pills-tab" role="tablist">
   <li class="nav-item" role="presentation">
-    <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><img src="@/assets/face.jpeg" style="width:50px;height:50px; border-radius:50%;"/></button>
+    <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><img src="@/assets/man2.jpeg" style="width:50px;height:50px; border-radius:50%;"/></button>
   </li>
   <li class="nav-item" role="presentation">
-    <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><img src="@/assets/tx.jpeg" style="width:50px;height:50px; border-radius:50%;"/></button>
+    <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false"><img src="@/assets/man3.jpeg" style="width:50px;height:50px; border-radius:50%;"/></button>
   </li>
   <li class="nav-item" role="presentation">
     <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false"><img src="@/assets/1.jpeg" style="width:50px;height:50px; border-radius:50%;"/></button>
@@ -269,8 +269,7 @@
 <div class="tab-content" id="pills-tabContent">
   <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
   <div class='review'>
-  <p class='lead'>Stay up to date on the development of Bootstrap and reach out to the community with these helpful resources. 1. Read and subscribe to The Official Bootstrap Blog. 2. Join the official Slack room. 3. Chat with fellow Bootstrappers in IRC. On the irc.libera.chat server, in the #bootstrapchannel. 4.
-   Implementation help may be found at Stack Ove…</p>
+  <p class='lead'>Nice working with CTS. They built my startup from grass root level to a well organized society. Thank you very much, BRAVO!!!!</p>
   <h5>Steven Crown</h5>
   <small>Brand strategist</small>
   
@@ -281,8 +280,7 @@
   </div>
   <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
   <div class='review'>
-  <p class='lead'>Stay up to date on the development of Bootstrap and reach out to the community with these helpful resources. 1. Read and subscribe to The Official Bootstrap Blog. 2. Join the official Slack room. 3. Chat with fellow Bootstrappers in IRC. On the irc.libera.chat server, in the #bootstrapchannel. 4.
-   Implementation help may be found at Stack Ove…</p>
+  <p class='lead'>CTS are the best, bring your business ideas and project to them. They have experts to give you the desired results</p>
   <h5>Williams Godswill</h5>
   <small>Business Man</small>
   
@@ -293,8 +291,7 @@
   </div>
   <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">
   <div class='review'>
-  <p class='lead'>Stay up to date on the development of Bootstrap and reach out to the community with these helpful resources. 1. Read and subscribe to The Official Bootstrap Blog. 2. Join the official Slack room. 3. Chat with fellow Bootstrappers in IRC. On the irc.libera.chat server, in the #bootstrapchannel. 4.
-   Implementation help may be found at Stack Ove…</p>
+  <p class='lead'>As a business woman, Bravo to their digital marketing department. You guys are the best!!</p>
   <h5>Babatunde Johnson</h5>
   <small>Business Marketer</small>
   
