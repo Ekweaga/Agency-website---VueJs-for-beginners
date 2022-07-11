@@ -155,49 +155,46 @@
   <div class="container features services">
         <div class='col-12 mt-5'><h1 class='m-5'>FEATURES</h1></div>
         <div class='row'>
-        <div class='col-lg-4 col-md-12 shadow'>
-       <div class='icon features-icon m-4'>  <i class='bx bx-check'></i></div>
+        <div class='col-lg-4 col-md-12 '>
+       <div class='  m-4'><img src="@/assets/blog1.jpg" style="width:100%;"/></div>
      
-        <h4>WEB SECURITY</h4>
-        <p class='w-60 text-justify'>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p>
+       <div style="position:relative; margin-top:-30px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>MODERN TECHNOLOGY</h4>
+        <p class='w-60 text-justify'>The first step to becoming a good digital marketing agency is to have required technology and the right people to use</p></div>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
-        <div class='icon features-icon m-4'><i class='bx bx-check'></i></div>
-        <h4>SOCIAL MEDIA ADS</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content 
-        of a page when looking at its layout</p>
+        <div class='col-lg-4 col-md-12 '>
+        <div class=' m-4'><img src="@/assets/blog2.jpg" style="width:100%;"/></div>
+       <div style="position:relative; margin-top:-30px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>WORK FORCE</h4>
+        <p>With neccessary technological resources we have innovative people who will work for you to your full advantage</p></div>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
-        <div class='icon features-icon m-4'><i class='bx bx-check' ></i></div>
-        <h4>SCALABILITY</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content 
-        of a page when looking at its layout</p>
+        <div class='col-lg-4 col-md-12 '>
+        <div class=' m-4'><img src="@/assets/blog3.jpg" style="width:100%;"/></div>
+        <div style="position:relative; margin-top:-30px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>  <h4>DECISION MAKING</h4>
+        <p>We make quick and timely decisions about your project. We give the best services, hire peoplw who an decide instinctively</p></div>
         </div>
 
         </div>
 
 
          <div class='row'>
-   <div class='col-lg-4 col-md-12 shadow'>
-       <div class='icon features-icon m-4'><i class='bx bx-check' ></i></div>
-        <h4>Business marketing</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p>
+   <div class='col-lg-4 col-md-12 '>
+       <div class=' m-4'><img src="@/assets/blog4.jpg" style="width:100%;"/></div>
+       <div style="position:relative; margin-top:-30px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>LATEST TRENDS</h4>
+        <p>We use the latest trends when dealing with clients projects. Hire people who have the habit of seeting trends</p></div>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
-        <div class='icon features-icon m-4'><i class='bx bx-check' ></i></div>
-        <h4>CLOUD FUNCTIONALITIES</h4>
+        <div class='col-lg-4 col-md-12 '>
+        <div class=' m-4'><img src="@/assets/cons.jpeg" style="width:100%;"/></div>
+       <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>CONSULTATIONS</h4>
         <p>It is a long established fact that a reader will be distractd by the readable content 
-        of a page when looking at its layout</p>
+        of a page when looking at its layout</p></div>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
-        <div class='icon features-icon m-4'><i class='bx bx-check' ></i></div>
-        <h4>LATEST TRENDS</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content 
-        of a page when looking at its layout</p>
+        <div class='col-lg-4 col-md-12 '>
+        <div class=' m-4'><img src="@/assets/support.jpeg" style="width:100%; height:200px;"/></div>
+       <div style="position:relative; margin-top:-80px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>24/7 SUPPORT</h4>
+        <p>C T S, We offer daily and constant 24 hours support to our clients. You can write to Us concerning complains</p></div>
         </div>
 
         </div>
