@@ -14,56 +14,52 @@
   </div>
   </div>
 
-  <div class="container services">
+ <div class="container services">
         <div class='col-12'><h1 class='m-5'>OUR SERVICES</h1></div>
         <div class='row'>
-        <div class='col-lg-4 col-md-12 shadow'>
-       <div class='icon m-4'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" style=" color:white;fill:white;transform: ;msFilter:;"><path d="m18.988 2.012 3 3L19.701 7.3l-3-3zM8 16h3l7.287-7.287-3-3L8 13z"></path><path d="M19 19H8.158c-.026 0-.053.01-.079.01-.033 0-.066-.009-.1-.01H5V5h6.847l2-2H5c-1.103 0-2 .896-2 2v14c0 1.104.897 2 2 2h14a2 2 0 0 0 2-2v-8.668l-2 2V19z"></path></svg></div>
-        <h4>UI/UX DESIGN</h4>
-        <p class='w-60 text-justify'>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p>
+        <div class='col-lg-4 col-md-12 '>
+       <div class=' m-4'><img src="@/assets/p3.jpeg" style="width:100%;"/></div>
+       <div  style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>UI/UX DESIGN</h4>
+        <p class='w-60 text-justify'>C T S, one of the best graphic design company is here to spread your business globally in the digital platform.</p></div>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
-        <div class='icon  m-4'><i class='bx bx-pencil'></i></div>
-        <h4>GRAPHICS DESIGN</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content 
-        of a page when looking at its layout</p>
+        <div class='col-lg-4 col-md-12 '>
+        <div class='  m-4'><img src="@/assets/pp1.jpg" style="width:100%; height:200px;"/></div>
+        <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>  <h4>GRAPHICS DESIGN</h4>
+        <p>C T S, one of the best graphic design company is here to spread your business globally in the digital platform.</p></div>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
-        <div class='icon  m-4'><i class='bx bx-mobile' ></i></div>
-        <h4>MOBILE DEVELOPMENT</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content 
-        of a page when looking at its layout</p>
+        <div class='col-lg-4 col-md-12 '>
+        <div class='  m-4'><img src="@/assets/p2.jpeg" style="width:100%; height:220px;"/></div>
+       <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>MOBILE DEVELOPMENT</h4>
+        <p>Mobile app development company is a trusted friend to gain a good name in the internet platform. </p></div>
         </div>
 
         </div>
 
 
          <div class='row'>
-   <div class='col-lg-4 col-md-12 shadow'>
-       <div class='icon  m-4'><i class='bx bx-image-alt'></i></div>
-        <h4>VIDEO EDITING</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p>
+   <div class='col-lg-4 col-md-12 '>
+       <div class='  m-4'><img src="@/assets/p4.jpeg" style="width:100%;"/></div>
+         <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>VIDEO EDITING</h4>
+        <p>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p></div>
         </div>
 
-        <div class='col-lg-4 col-md-12 shadow'>
-        <div class='icon  m-4'><i class='bx bx-border-all'></i></div>
-        <h4>SEO SERVICES</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content 
-        of a page when looking at its layout</p>
+        <div class='col-lg-4 col-md-12 '>
+        <div class='  m-4'><img src="@/assets/seo.jpeg" style="width:100%;"/></div>
+         <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>SEO SERVICES</h4>
+        <p>Search Engine Optimization (SEO) is an organic process to get traffic,  a process to make your website optimized for google search engine optimization. </p></div>
         </div>
 
         <div class='col-lg-4 col-md-12'>
-        <div class='icon  m-4'><i class='bx bxl-visual-studio'></i></div>
-        <h4>WEBSITE DESIGN</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content 
-        of a page when looking at its layout</p>
+        <div class=' m-4'><img src="@/assets/p5.jpeg" style="width:100%;height:200px;"/></div>
+       <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>WEBSITE DESIGN</h4>
+        <p>Website Design is a process of designing web pages  that are displayed on the internet. A website identified by a common domain name on the internet. 
+        </p></div>
         </div>
 
         </div>
   </div>
-
   
 
   

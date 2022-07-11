@@ -17,22 +17,22 @@
   </div>
 
   <div class='row mt-5 container-fluid abt1'>
-    <div class='col-lg-6 mt-5 col-12'>
+    <div class='col-lg-6 mt-5 col-sm-12'>
     <h2>Who We Are</h2>
     <p>We beautify the project story of our clients through latest technology around. Branding, digital and design studio have been taken care by us equipped with
      the latest technological advancements.</p>
     </div>
-     <div class='col-6 '>
+     <div class='col-lg-6 col-sm-12'>
      <img src="@/assets/ab1.jpg"/>
      </div>
   </div>
 
   <div class='row mt-5 abt2 container-fluid'>
-    <div class='col-lg-6 mt-5 col-12'>
+    <div class='col-lg-6 mt-5 col-sm-12'>
     <h2>MISSION & VISION</h2>
     <p>Our team articulates the templates that empower you to reshape your business like never before. Our aim is to fulfill your aim of business growth from zero to the milestone through our expertise in website designing, digital marketing, branding & graphics. “Creative agency,Creative people.”</p>
     </div>
-     <div class='col-lg-6 '>
+     <div class='col-lg-6 col-sm-12'>
     
      <img src="@/assets/ab2.jpg"/>
      </div>
@@ -43,7 +43,7 @@
     <h2>HOW WE WORK</h2>
     <p>The team of our designers and programmers work with the visual elements like illustrations and iconography and improvise it to fit in your business requirements. We give options to our client to choose from various templates that are approached through our exploration and advancement approaches like Software Requirement Analysis, Software Specifications, Software Architecture, Code Implementation, Testing, and Software Documentation & Maintenance.”</p>
     </div>
-     <div class='col-lg-6 '>
+     <div class='col-lg-6 col-sm-12'>
      <img src="@/assets/ab3.jpg"/>
      </div>
   </div>
@@ -132,17 +132,18 @@ export default{
     height:300px;
   }
   .abt1 img{
-  width:350px;
+  width:300px;
   height:350px;
    filter: brightness(40%);
+   margin-left:20px;
 }
 .abt2 img{
-  width:350px;
+  width:300px;
   height:350px;
   filter: brightness(40%);
 }
 .abt3 img{
-  width:350px;
+  width:300px;
   height:350px;
    filter: brightness(40%);
 }

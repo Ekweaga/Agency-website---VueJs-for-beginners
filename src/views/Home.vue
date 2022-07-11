@@ -21,21 +21,38 @@
         <div class='col-12'><h1 class='m-5'>OUR SERVICES</h1></div>
         <div class='row'>
         <div class='col-lg-4 col-md-12 '>
-       <div class='icon m-4'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" style=" color:white;fill:white;transform: ;msFilter:;"><path d="m18.988 2.012 3 3L19.701 7.3l-3-3zM8 16h3l7.287-7.287-3-3L8 13z"></path><path d="M19 19H8.158c-.026 0-.053.01-.079.01-.033 0-.066-.009-.1-.01H5V5h6.847l2-2H5c-1.103 0-2 .896-2 2v14c0 1.104.897 2 2 2h14a2 2 0 0 0 2-2v-8.668l-2 2V19z"></path></svg></div>
-        <h4>UI/UX DESIGN</h4>
-        <p class='w-60 text-justify'>C T S, one of the best graphic design company is here to spread your business globally in the digital platform.</p>
+       <div class=' m-4'><img src="@/assets/p3.jpeg" style="width:100%;"/></div>
+       <div  style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>UI/UX DESIGN</h4>
+        <p class='w-60 text-justify'>C T S, one of the best graphic design company is here to spread your business globally in the digital platform.</p></div>
+        </div>
+        <div class='col-lg-4 col-md-12 '>
+       <div class=' m-4'><img src="@/assets/network.png" style="width:100%;"/></div>
+       <div  style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>NETWORKING</h4>
+        <p class='w-60 text-justify'>C T S, Our experienced network architects and designers provides the most effective communication networks to aid efficiency and its implementation.
+
+.</p></div>
+        </div>
+        <div class='col-lg-4 col-md-12 '>
+       <div class=' m-4'><img src="@/assets/blockchain-funds.png" style="width:100%; height:210px;"/></div>
+       <div  style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>BLOCK CHAIN</h4>
+        <p class='w-60 text-justify'>We utilize the potential of Blockchain into mobile app development to bring automation, minimize data storage cost, enhance data security, minimize risks, and get rid of data redundancy. </p></div>
+        </div>
+        <div class='col-lg-4 col-md-12 '>
+       <div class=' m-4'><img src="@/assets/ai-development-right.png" style="width:100%;"/></div>
+       <div  style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>AI DEVELOPMENT</h4>
+        <p class='w-60 text-justify'>Leveraging the power of computer vision, deep learning, machine learning, natural language processing, and other AI technologies </p></div>
         </div>
 
         <div class='col-lg-4 col-md-12 '>
-        <div class='icon  m-4'><i class='bx bx-pencil'></i></div>
-        <h4>GRAPHICS DESIGN</h4>
-        <p>C T S, one of the best graphic design company is here to spread your business globally in the digital platform.</p>
+        <div class='  m-4'><img src="@/assets/pp1.jpg" style="width:100%; height:200px;"/></div>
+        <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>  <h4>GRAPHICS DESIGN</h4>
+        <p>C T S, one of the best graphic design company is here to spread your business globally in the digital platform.</p></div>
         </div>
 
         <div class='col-lg-4 col-md-12 '>
-        <div class='icon  m-4'><i class='bx bx-mobile' ></i></div>
-        <h4>MOBILE DEVELOPMENT</h4>
-        <p>Mobile app development company is a trusted friend to gain a good name in the internet platform. </p>
+        <div class='  m-4'><img src="@/assets/mobile.png" style="width:100%; height:220px;"/></div>
+       <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>MOBILE DEVELOPMENT</h4>
+        <p>Mobile app development company is a trusted friend to gain a good name in the internet platform. </p></div>
         </div>
 
         </div>
@@ -43,27 +60,30 @@
 
          <div class='row'>
    <div class='col-lg-4 col-md-12 '>
-       <div class='icon  m-4'><i class='bx bx-image-alt'></i></div>
-        <h4>VIDEO EDITING</h4>
-        <p>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p>
+       <div class='  m-4'><img src="@/assets/p4.jpeg" style="width:100%;"/></div>
+         <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>VIDEO EDITING</h4>
+        <p>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p></div>
         </div>
 
         <div class='col-lg-4 col-md-12 '>
-        <div class='icon  m-4'><i class='bx bx-border-all'></i></div>
-        <h4>SEO SERVICES</h4>
-        <p>Search Engine Optimization (SEO) is an organic process to get traffic,  a process to make your website optimized for google search engine optimization. </p>
+        <div class='  m-4'><img src="@/assets/seo.jpeg" style="width:100%;"/></div>
+         <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>SEO SERVICES</h4>
+        <p>Search Engine Optimization (SEO) is an organic process to get traffic,  a process to make your website optimized for google search engine optimization. </p></div>
         </div>
 
         <div class='col-lg-4 col-md-12'>
-        <div class='icon  m-4'><i class='bx bxl-visual-studio'></i></div>
-        <h4>WEBSITE DESIGN</h4>
+        <div class=' m-4'><img src="@/assets/p5.jpeg" style="width:100%;height:200px;"/></div>
+       <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>WEBSITE DESIGN</h4>
         <p>Website Design is a process of designing web pages  that are displayed on the internet. A website identified by a common domain name on the internet. 
-        </p>
+        </p></div>
         </div>
 
         </div>
+        
+
+
   </div>
-
+<br/><br/>
   <div class="portfolios row g-0" id="work">
      <div ><h2 class='m-5'>OUR WORKS</h2></div>
      <div class='col-lg-4 col-sm-6 portfolio-item'>
@@ -203,7 +223,7 @@
 
    <div class='col-lg-3 col-sm-12 team-member ' >
     <div class='team-member-img'>
-    <img src='@/assets/face.jpeg' class=''/>
+    <img src='@/assets/chax.jpg' class=''/>
     </div>
 
     <div class='p-4 teaminfo'>
@@ -255,6 +275,7 @@
   </div>
 
 <div class='Testimonial text-center container' id="test">
+  <div ><h2 class='m-5 mx-auto'>WHAT CLIENTS SAY</h2></div>
 <ul class="nav nav-pills mb-3  justify-content-center" id="pills-tab" role="tablist">
   <li class="nav-item" role="presentation">
     <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true"><img src="@/assets/man2.jpeg" style="width:50px;height:50px; border-radius:50%;"/></button>
@@ -303,8 +324,16 @@
 </div>
 
 
+</div>
 
-
+<div class='clients row container mx-auto'>
+<div class='col-12 mb-5'><h3> OUR CLIENTS</h3></div>
+<div class='col-lg-2 col-sm-12'><img src="@/assets/bolt-recharge-grey.png"/></div>
+<div class='col-lg-2 col-sm-12'><img src="@/assets/cyber-techies-grey.png"/></div>
+<div class='col-lg-2 col-sm-12'><img src="@/assets/gnet-grey.png"/></div>
+<div class='col-lg-2 col-sm-12'><img src="@/assets/eazy-mobile-grey.png"/></div>
+<div class='col-lg-2 col-sm-12'><img src="@/assets/NovaTechGrey.png"/></div>
+<div class='col-lg-2 col-sm-12'><img src="@/assets/pinway-logistics-grey.png"/></div>
 </div>
 <div class='ready row'>
 <div class='col-lg-6 col-sm-10'>
@@ -370,6 +399,12 @@ export default{
 </script>
 
 <style>
+.clients img{
+  width:100px;
+}
+.clients{
+  margin-bottom:50px;
+}
 .headercontent{
    min-height:100vh;
    background-image:linear-gradient(rgba(17,36,90,0.8), rgba(17,36,90,0.8)),url("@/assets/cts.jpeg");
@@ -389,11 +424,11 @@ export default{
     margin:auto;
 }
 .services{
-    height:100vh;
+   
    
 }
 .portfolios{
-     height:100vh;
+  
 }
 .icon{
     background:crimson;
@@ -506,6 +541,10 @@ h4{
 }
 
 @media(max-width:600px){
+  .clients img{
+  width:200px;
+  margin-bottom:30px;
+}
     .contact{
         width:100%;
     }
@@ -517,13 +556,13 @@ h4{
         padding:0;
     }
     .services{
-        margin-bottom:700px;
+       
     }
     .features{
-        margin-top:1200px;
+        
     }
      .portfolio-item{
-    margin-bottom:15px;
+    margin-bottom:25px;
 }
 }
 @media(width:768px){
