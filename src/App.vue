@@ -179,8 +179,12 @@
 <!-- End of .container -->
 </template>
 <script>
+import AOS from 'aos';
+import 'aos/dist/aos.css'
 export default {
-  
+  created(){
+    AOS.init();
+  }
 };
 </script>
 

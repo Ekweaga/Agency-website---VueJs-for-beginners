@@ -23,7 +23,7 @@
      the latest technological advancements.</p>
     </div>
      <div class='col-lg-6 col-sm-12'>
-     <img src="@/assets/ab1.jpg"/>
+     <aos-vue animation="slide-left"> <img src="@/assets/ab1.jpg"/></aos-vue>
      </div>
   </div>
 
@@ -34,7 +34,7 @@
     </div>
      <div class='col-lg-6 col-sm-12'>
     
-     <img src="@/assets/ab2.jpg"/>
+   <aos-vue animation="slide-right">  <img src="@/assets/ab2.jpg"/></aos-vue>
      </div>
   </div>
 
@@ -44,7 +44,7 @@
     <p>The team of our designers and programmers work with the visual elements like illustrations and iconography and improvise it to fit in your business requirements. We give options to our client to choose from various templates that are approached through our exploration and advancement approaches like Software Requirement Analysis, Software Specifications, Software Architecture, Code Implementation, Testing, and Software Documentation & Maintenance.”</p>
     </div>
      <div class='col-lg-6 col-sm-12'>
-     <img src="@/assets/ab3.jpg"/>
+     <aos-vue animation="slide-left"><img src="@/assets/ab3.jpg"/></aos-vue>
      </div>
   </div>
 
@@ -75,22 +75,24 @@
 
 
 
-  <div class='ready row'>
+  <aos-vue animation="fade-in"><div class='ready row'>
 <div class='col-lg-6 col-sm-10'>
 <h3>Ready for your project dream to be done</h3>
 </div>
 <div  class='col-lg-6 col-sm-10'>
 <button>Meet Us</button>
 </div>
-</div>
+</div></aos-vue>
 
  
 </template>
 
 
 <script>
+import AosVue from "aos-vue";
 export default{
-    name:'AboutusComponent'
+    name:'AboutusComponent',
+    components: {AosVue},
 }
 </script>
 

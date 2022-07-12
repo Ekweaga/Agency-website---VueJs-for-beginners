@@ -4,8 +4,8 @@
   <div class='row justify-content-center ' >
   <div class='col-lg-10 col-sm-12'>
   <h2 class='display-5 '> <span class='cts' style="margin-bottom:25px; color:crimson; font-size:50px;">CTS</span><br/></h2>
-  <h1 class='display-5 '>WE ARE CREATIVE AGENCY, <br/>
-  CREATIVE PEOPLE</h1>
+  <aos-vue animation="flip-left"><h1 class='display-5 ' >WE ARE CREATIVE AGENCY, <br/>
+  CREATIVE PEOPLE</h1></aos-vue>
   <p class="headerp"></p>
   <div><button class="btn btn-danger mt-3 " style="width:150px;">Contact Us</button></div>
   
@@ -20,63 +20,63 @@
   <div class="container services">
         <div class='col-12'><h1 class='m-5'>OUR SERVICES</h1></div>
         <div class='row'>
-        <div class='col-lg-4 col-md-12 '>
+       <aos-vue animation="fade-up" class='col-lg-4 col-md-12 '> <div >
        <div class=' m-4'><img src="@/assets/p3.jpeg" style="width:100%;"/></div>
        <div  style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>UI/UX DESIGN</h4>
         <p class='w-60 text-justify'>C T S, one of the best graphic design company is here to spread your business globally in the digital platform.</p></div>
-        </div>
-        <div class='col-lg-4 col-md-12 '>
+        </div></aos-vue>
+        <aos-vue animation="fade-up" class='col-lg-4 col-md-12 '><div >
        <div class=' m-4'><img src="@/assets/network.png" style="width:100%;"/></div>
        <div  style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>NETWORKING</h4>
         <p class='w-60 text-justify'>C T S, Our experienced network architects and designers provides the most effective communication networks to aid efficiency and its implementation.
 
 .</p></div>
-        </div>
-        <div class='col-lg-4 col-md-12 '>
+        </div></aos-vue>
+       <aos-vue animation="fade-up" class='col-lg-4 col-md-12 '> <div >
        <div class=' m-4'><img src="@/assets/blockchain-funds.png" style="width:100%; height:210px;"/></div>
        <div  style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>BLOCK CHAIN</h4>
         <p class='w-60 text-justify'>We utilize the potential of Blockchain into mobile app development to bring automation, minimize data storage cost, enhance data security, minimize risks, and get rid of data redundancy. </p></div>
-        </div>
-        <div class='col-lg-4 col-md-12 '>
+        </div></aos-vue>
+      <aos-vue animation="fade-up" class='col-lg-4 col-md-12 '>  <div >
        <div class=' m-4'><img src="@/assets/ai-development-right.png" style="width:100%;"/></div>
        <div  style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>AI DEVELOPMENT</h4>
         <p class='w-60 text-justify'>Leveraging the power of computer vision, deep learning, machine learning, natural language processing, and other AI technologies </p></div>
-        </div>
+        </div></aos-vue>
 
-        <div class='col-lg-4 col-md-12 '>
+       <aos-vue animation="fade-up" class='col-lg-4 col-md-12 '> <div >
         <div class='  m-4'><img src="@/assets/pp1.jpg" style="width:100%; height:200px;"/></div>
         <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>  <h4>GRAPHICS DESIGN</h4>
         <p>C T S, one of the best graphic design company is here to spread your business globally in the digital platform.</p></div>
-        </div>
+        </div></aos-vue>
 
-        <div class='col-lg-4 col-md-12 '>
+       <aos-vue animation="zoom-in" class='col-lg-4 col-md-12 '> <div >
         <div class='  m-4'><img src="@/assets/mobile.png" style="width:100%; height:220px;"/></div>
        <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>MOBILE DEVELOPMENT</h4>
         <p>Mobile app development company is a trusted friend to gain a good name in the internet platform. </p></div>
-        </div>
+        </div></aos-vue>
 
         </div>
 
 
          <div class='row'>
-   <div class='col-lg-4 col-md-12 '>
+   <aos-vue animation="zoom-in"  class='col-lg-4 col-md-12 '><div>
        <div class='  m-4'><img src="@/assets/p4.jpeg" style="width:100%;"/></div>
          <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>VIDEO EDITING</h4>
         <p>It is a long established fact that a reader will be distractd by the readable content of a page when looking at its layout</p></div>
-        </div>
+        </div></aos-vue>
 
-        <div class='col-lg-4 col-md-12 '>
+        <aos-vue animation="zoom-in" class='col-lg-4 col-md-12 '><div >
         <div class='  m-4'><img src="@/assets/seo.jpeg" style="width:100%;"/></div>
          <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'> <h4>SEO SERVICES</h4>
         <p>Search Engine Optimization (SEO) is an organic process to get traffic,  a process to make your website optimized for google search engine optimization. </p></div>
-        </div>
+        </div></aos-vue>
 
-        <div class='col-lg-4 col-md-12'>
+       <aos-vue animation="zoom-in" class='col-lg-4 col-md-12'> <div >
         <div class=' m-4'><img src="@/assets/p5.jpeg" style="width:100%;height:200px;"/></div>
        <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>WEBSITE DESIGN</h4>
         <p>Website Design is a process of designing web pages  that are displayed on the internet. A website identified by a common domain name on the internet. 
         </p></div>
-        </div>
+        </div></aos-vue>
 
         </div>
         
@@ -155,47 +155,47 @@
   <div class="container features services">
         <div class='col-12 mt-5'><h1 class='m-5'>FEATURES</h1></div>
         <div class='row'>
-        <div class='col-lg-4 col-md-12 '>
+       <aos-vue animation="zoom-in"  class='col-lg-4 col-md-12 '>  <div>
        <div class='  m-4'><img src="@/assets/blog1.jpg" style="width:100%;"/></div>
      
        <div style="position:relative; margin-top:-30px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>MODERN TECHNOLOGY</h4>
         <p class='w-60 text-justify'>The first step to becoming a good digital marketing agency is to have required technology and the right people to use</p></div>
-        </div>
+        </div></aos-vue>
 
-        <div class='col-lg-4 col-md-12 '>
+       <aos-vue animation="fade-up"  class='col-lg-4 col-md-12 '>  <div >
         <div class=' m-4'><img src="@/assets/blog2.jpg" style="width:100%;"/></div>
        <div style="position:relative; margin-top:-30px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>WORK FORCE</h4>
         <p>With neccessary technological resources we have innovative people who will work for you to your full advantage</p></div>
-        </div>
+        </div></aos-vue>
 
-        <div class='col-lg-4 col-md-12 '>
+        <aos-vue animation="zoom-in"  class='col-lg-4 col-md-12 '> <div >
         <div class=' m-4'><img src="@/assets/blog3.jpg" style="width:100%;"/></div>
         <div style="position:relative; margin-top:-30px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>  <h4>DECISION MAKING</h4>
         <p>We make quick and timely decisions about your project. We give the best services, hire peoplw who an decide instinctively</p></div>
-        </div>
+        </div></aos-vue>
 
         </div>
 
 
          <div class='row'>
-   <div class='col-lg-4 col-md-12 '>
+    <aos-vue animation="fade-up"  class='col-lg-4 col-md-12 '><div >
        <div class=' m-4'><img src="@/assets/blog4.jpg" style="width:100%;"/></div>
        <div style="position:relative; margin-top:-30px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>LATEST TRENDS</h4>
         <p>We use the latest trends when dealing with clients projects. Hire people who have the habit of seeting trends</p></div>
-        </div>
+        </div></aos-vue>
 
-        <div class='col-lg-4 col-md-12 '>
+       <aos-vue animation="zoom-in"  class='col-lg-4 col-md-12 '>  <div>
         <div class=' m-4'><img src="@/assets/cons.jpeg" style="width:100%;"/></div>
        <div style="position:relative; margin-top:-90px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>CONSULTATIONS</h4>
         <p>It is a long established fact that a reader will be distractd by the readable content 
         of a page when looking at its layout</p></div>
-        </div>
+        </div></aos-vue>
 
-        <div class='col-lg-4 col-md-12 '>
+        <aos-vue animation="slide-in"  class='col-lg-4 col-md-12 '> <div>
         <div class=' m-4'><img src="@/assets/support.jpeg" style="width:100%; height:200px;"/></div>
        <div style="position:relative; margin-top:-80px; background:white; z-index:1; padding:5px;padding-top:10px;" class='shadow'>   <h4>24/7 SUPPORT</h4>
         <p>C T S, We offer daily and constant 24 hours support to our clients. You can write to Us concerning complains</p></div>
-        </div>
+        </div></aos-vue>
 
         </div>
   </div>
@@ -203,8 +203,8 @@
   <div class="team row " id="team">
      <div class='col-12 mt-5'><h1 class='m-5'>MEET OUR TEAM</h1></div>
   <div class='col-lg-3 col-sm-12 team-member '>
-    <div class='team-member-img'>
-    <img src='@/assets/m2.png' class=''/>
+    <div class='team-member-img' >
+   <aos-vue animation="flip-right"> <img src='@/assets/m2.png' class='' /></aos-vue>
     </div>
 
     <div class='p-4'>
@@ -219,8 +219,8 @@
   </div>
 
    <div class='col-lg-3 col-sm-12 team-member ' >
-    <div class='team-member-img'>
-    <img src='@/assets/chax.jpg' class=''/>
+    <div class='team-member-img' >
+   <aos-vue animation="flip-right"> <img src='@/assets/chax.jpg' class='' /></aos-vue>
     </div>
 
     <div class='p-4 teaminfo'>
@@ -235,7 +235,7 @@
   </div>
   <div class='col-lg-3 col-sm-12 team-member '>
     <div class='team-member-img'>
-    <img src='@/assets/m1.png' class=''/>
+     <aos-vue animation="flip-right"><img src='@/assets/m1.png' class=''/></aos-vue>
     </div>
 
     <div class='p-4'>
@@ -250,7 +250,7 @@
   </div>
   <div class='col-lg-3 col-sm-12 team-member '>
     <div class='team-member-img'>
-    <img src='@/assets/man5.jpeg' class=''/>
+    <aos-vue animation="flip-right"><img src='@/assets/man5.jpeg' class=''/></aos-vue>
     </div>
 
     <div class='p-4 teaminfo'>
@@ -269,6 +269,26 @@
 
 
 
+  </div>
+  <div class='projects'>
+  <div class='row container-fluid'>
+  <div class='col-lg-3 col-sm-6'>
+ <aos-vue animation="flip-left"> <h2>30+</h2></aos-vue>
+  <p>PROJECT DELIVERED</p>
+  </div>
+   <div class='col-lg-3 col-sm-6'>
+  <aos-vue animation="fade-in"> <h2>10+</h2></aos-vue>
+  <p>DEVELOPMENT STAFF</p>
+  </div>
+   <div class='col-lg-3 col-sm-6'>
+   <aos-vue animation="flip-left"><h2>2+</h2></aos-vue>
+  <p>YEARS OF EXPERIENCE</p>
+  </div>
+   <div class='col-lg-3 col-sm-6'>
+  <aos-vue animation="flip-left"> <h2>20+</h2></aos-vue>
+  <p>SATISFIED CLIENTS</p>
+  </div>
+  </div>
   </div>
 
 <div class='Testimonial text-center container' id="test">
@@ -332,14 +352,14 @@
 <div class='col-lg-2 col-sm-12'><img src="@/assets/NovaTechGrey.png"/></div>
 <div class='col-lg-2 col-sm-12'><img src="@/assets/pinway-logistics-grey.png"/></div>
 </div>
-<div class='ready row'>
+<aos-vue animation="fade-up"><div class='ready row'>
 <div class='col-lg-6 col-sm-10'>
 <h3>Ready for your project dream to be done</h3>
 </div>
 <div  class='col-lg-6 col-sm-10'>
 <button>Meet Us</button>
 </div>
-</div>
+</div></aos-vue>
 
 <div class='contact row'>
 <div class='col-12'><h2>WRITE TO US</h2></div>
@@ -364,7 +384,11 @@
 
 
 <script>
+import AosVue from "aos-vue";
+
 export default{
+  components: {AosVue},
+   
   name:'HomeComponent',
   data(){
     return{
@@ -412,6 +436,18 @@ export default{
     display:flex;
     align-items:center;
     justify-content:center;
+}
+.projects{
+   min-height:20vh;
+   background-image:linear-gradient(rgba(17,36,90,0.8), rgba(17,36,90,0.8)),url("@/assets/cts.jpeg");
+  background-size:cover;
+  background-position:center;
+  background-attachment:fixed;
+    color:white;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:10px 3px;
 }
 .header{
     padding:100px;
